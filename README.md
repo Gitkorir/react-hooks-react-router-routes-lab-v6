@@ -1,6 +1,6 @@
 # Basic Routes Lab
 
-## Learning Goals
+## Learning Goalss
 
 - Use `createBrowserRouter` to create a client-side router.
 - Use `RouterProvider` to include the router in your app.
